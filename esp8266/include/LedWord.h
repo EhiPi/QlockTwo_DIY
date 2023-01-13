@@ -11,7 +11,7 @@ public:
     int getFirstPixelX() const;
     void setFirstPixelX(int firstPixelX);
     int getFirstPixelY() const;
-    void setFirstPixelY(int firstPixelX);
+    void setFirstPixelY(int firstPixelY);
     int getLength() const;
     void setLength(int length);
 private:
